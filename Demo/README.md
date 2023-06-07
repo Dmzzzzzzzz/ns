@@ -52,11 +52,3 @@ mysql 安装教程[输入链接说明](https://mp.weixin.qq.com/s/QSio4tgqwDkngl
 ![输入图片说明](https://images.gitee.com/uploads/images/2022/0617/234011_becdfb7b_9956838.png "9-4系统管理-日志管理.png")
 9-5.系统管理-公告管理
 ![输入图片说明](https://images.gitee.com/uploads/images/2022/0617/234018_a9067705_9956838.png "9-5系统管理-公告管理.png")
-
-#### 项目建议
-建议增加汽车租赁用户系统，目前仅用户后台管理系统涵盖管理员和业务员角色
-
-#### About me
-一个爱学习、爱分享、爱交流的程序员Boy；
-
-联系：欢迎关注个人微信公众号【Java烂笔头】，微信小程序【Java烂笔头】，一起交流、共同进步；
